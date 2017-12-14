@@ -1,58 +1,23 @@
 {
-  "result": [
-    {
-      "message": {
-        "chat": {
-          "id": 193093551,
-          "username": "risccisc",
-          "type": "private",
-          "first_name": "Kris",
-          "last_name": "Karuzo"
-        },
-        "from": {
-          "id": 193093551,
-          "is_bot": false,
-          "first_name": "Kris",
-          "username": "risccisc",
-          "language_code": "en",
-          "last_name": "Karuzo"
-        },
-        "message_id": 1,
-        "date": 1513183539,
-        "text": "/start",
-        "entities": [
-          {
-            "type": "bot_command",
-            "offset": 0,
-            "length": 6
-          }
-        ]
-      },
-      "update_id": 581149778
+  "update_id": 581149788,
+  "message": {
+    "date": 1513264105,
+    "message_id": 12,
+    "from": {
+      "language_code": "en",
+      "id": 193093551,
+      "username": "risccisc",
+      "is_bot": false,
+      "last_name": "Karuzo",
+      "first_name": "Kris"
     },
-    {
-      "message": {
-        "chat": {
-          "id": 193093551,
-          "username": "risccisc",
-          "type": "private",
-          "first_name": "Kris",
-          "last_name": "Karuzo"
-        },
-        "date": 1513183546,
-        "from": {
-          "id": 193093551,
-          "is_bot": false,
-          "first_name": "Kris",
-          "username": "risccisc",
-          "language_code": "en",
-          "last_name": "Karuzo"
-        },
-        "message_id": 2,
-        "text": "hi 1223"
-      },
-      "update_id": 581149779
+    "text": "bitcoin",
+    "chat": {
+      "last_name": "Karuzo",
+      "id": 193093551,
+      "type": "private",
+      "first_name": "Kris",
+      "username": "risccisc"
     }
-  ],
-  "ok": true
+  }
 }
